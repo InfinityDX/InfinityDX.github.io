@@ -3,7 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appIDs": "H9KS4K96JV.com.neo.khid",
+"appIDs": [ "H9KS4K96JV.com.neo.khid" ], 
+ "components": [ ]
       }
     ]
   }
