@@ -4,12 +4,6 @@
     "details": [
       {
         "appIDs": "H9KS4K96JV.com.neo.khid",
-        "components": [
-          {
-            "/": "/*",
-            "comment": "Matches any URL with a path that starts with /."
-          }
-        ]
       }
     ]
   }
