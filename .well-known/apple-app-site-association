@@ -8,8 +8,8 @@
         ],
         "components": [
           {
-            "/": "/",
-            "comment": "Success after reset password journey"
+            "/": "*",
+            "comment": "Open KHID"
           }
         ]
       }
