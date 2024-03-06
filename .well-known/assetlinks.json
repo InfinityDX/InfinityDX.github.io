@@ -1,12 +1,4 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.neo.khid",
-    "sha256_cert_fingerprints":
-    ["A7:FE:79:79:0A:CE:97:44:5B:B8:73:5C:94:C4:2B:79:82:EB:57:47:4B:CE:F3:7C:43:46:46:5A:72:00:6C:D4"]
-  }
-},
+[
 {
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
