@@ -8,8 +8,7 @@
         ],
         "components": [
           {
-            "/": "/",
-            "exclude": true,
+            "/": "/*",
             "comment": "Success after reset password journey"
           }
         ]
